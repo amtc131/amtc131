@@ -6,7 +6,7 @@ Back End Developer
 
 * 🌍  I'm based in México
 * ✉️  You can contact me at [amtc131@gmail.com](mailto:amtc131@gmail.com)
-* 🧠  I'm learning Spring Boot
+* 🧠  I'm learning Spring Boot, Golang, C
 
 ### Skills
 
