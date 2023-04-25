@@ -28,3 +28,6 @@ Back End Developer
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amtc131&layout=compact"/>
+
+
+[![Programming Languages](https://raw.githubusercontent.com/amtc131/githubstatsreadmegenerator/master/generated/languages.svg)](https://lagmental.net/pages/notme.html)
