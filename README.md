@@ -28,4 +28,3 @@ Back End Developer
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amtc131&layout=compact"/>
-<script src="https://gist.github.com/amtc131/dee6093fab662c0e2ac1f6a94752d7e6.js"></script>
