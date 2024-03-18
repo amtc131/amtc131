@@ -6,4 +6,4 @@
 </a>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amtc131&repo=github-readme-stats)](https://github.com/amtc131/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amtc131&repo=microservice-go)](https://github.com/amtc131/microservice-go)
